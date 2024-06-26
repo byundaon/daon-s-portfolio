@@ -1,47 +1,47 @@
 @charset "utf-8";
 @font-face {
     font-family: 'pretendard-black';
-    src: url('/font/Pretendard-Black.otf');
+    src: url('../font/Pretendard-Black.otf');
 }
 @font-face {
     font-family: 'pretendard-bold';
-    src: url('/font/Pretendard-Bold.otf');
+    src: url('../font/Pretendard-Bold.otf');
 }
 @font-face {
     font-family: 'pretendard-extrabold';
-    src: url('/font/Pretendard-ExtraBold.otf');
+    src: url('../font/Pretendard-ExtraBold.otf');
 }
 @font-face {
     font-family: 'pretendard-light';
-    src: url('/font/Pretendard-Light.otf');
+    src: url('../font/Pretendard-Light.otf');
 }
 @font-face {
     font-family: 'pretendard-medium';
-    src: url('/font/Pretendard-Medium.otf');
+    src: url('../font/Pretendard-Medium.otf');
 }
 @font-face {
     font-family: 'pretendard-regular';
-    src: url('/font/Pretendard-Regular.otf');
+    src: url('../font/Pretendard-Regular.otf');
 }
 @font-face {
     font-family: 'pretendard-thin';
-    src: url('/font/Pretendard-Thin.otf');
+    src: url('../font/Pretendard-Thin.otf');
 }
 @font-face {
     font-family: 'pretendard-semibold';
-    src: url('/font/Pretendard-SemiBold.otf');
+    src: url('../font/Pretendard-SemiBold.otf');
 }
 @font-face {
     font-family: 'pretendard-extralight';
-    src: url('/font/Pretendard-ExtraLight.otf');
+    src: url('../font/Pretendard-ExtraLight.otf');
 }
 @font-face {
     font-family: 'RubberNippleFactoryBlack';
-    src: url(/font/RubberNippleFactoryBlack.ttf);
+    src: url('../font/RubberNippleFactoryBlack.ttf');
 }
 @font-face {
     font-family: 'omyu-pretty';
-    src: url(/font/omyu\ pretty.ttf);
+    src: url('../font/omyu\ pretty.ttf');
 }
 
 
@@ -312,7 +312,7 @@ section.page1 .daon{
     left: 20%;
 }
 
-.section.page2 .side .profile_img img{
+.section.page2 .side .profile_img img.animate__pulse{
     width: 100%;
     position: absolute;
     z-index: 9;
@@ -607,7 +607,7 @@ section.page3 .box .btn_next{
     right: 10%;
     z-index: 999;
     clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
-    cursor: url(../SVG/pointer.png);
+    cursor: url('../SVG/pointer.png');
 }
 
 section.page3 .box a{
@@ -617,11 +617,11 @@ section.page3 .box a{
     bottom: 3.3%;
     right: 12%;
     font-family: 'pretendard-thin';
-    cursor: url(../SVG/pointer.png);
+    cursor: url('../SVG/pointer.png');
 
 }
 section.page3 .box a:hover{
-    cursor: url(../SVG/active.png);
+    cursor: url('../SVG/active.png');
 }
 
 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
