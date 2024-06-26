@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2bb57;
+        stroke: #be2132;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #be2132;
+        font-family: AdobeClean-Bold, 'Adobe Clean';
+        font-size: 50.64px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" x="1" y="1" width="80" height="80" rx="18" ry="18"/>
+    <text class="cls-2" transform="translate(15.73 55.99) scale(1.03 1)"><tspan class="cls-3" x="0" y="0">P</tspan><tspan x="28.97" y="0">s</tspan></text>
+  </g>
+</svg>

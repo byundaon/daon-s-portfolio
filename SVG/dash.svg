@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.5 1321">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 12.01 12.01;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #be2132;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <line class="cls-3" x1="2" y1="0" x2="2.5" y2="1321"/>
+      <g>
+        <line class="cls-2" x1="2" y1="0" x2="2" y2="6"/>
+        <line class="cls-1" x1="2.01" y1="18.01" x2="2.5" y2="1309"/>
+        <line class="cls-2" x1="2.5" y1="1315" x2="2.5" y2="1321"/>
+      </g>
+    </g>
+  </g>
+</svg>

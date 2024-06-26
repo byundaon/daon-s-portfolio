@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 484 388">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: #be2132;
+        stroke: #f9deaf;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-6);
+      }
+
+      .cls-3 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-4 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-5 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-4);
+      }
+
+      .cls-8 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .cls-9 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-10 {
+        filter: url(#drop-shadow-10);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-5" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-6" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-7" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-8" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-9" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-10" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-10" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-3" d="M450,71.25H34c-13.2,0-24,10.8-24,24v25.1l145,.4c9.5-8.5,36.5-32.5,87-32.64s87.56,32.24,87.56,32.24h144.44v-25.1c0-13.2-10.8-24-24-24Z"/>
+    <path class="cls-5" d="M242,345.75c66.83,0,121-54.17,121-121s-54.17-121-121-121-121,54.17-121,121,54.17,121,121,121ZM242,120.75c57.44,0,104,46.56,104,104s-46.56,104-104,104-104-46.56-104-104,46.56-104,104-104Z"/>
+    <path class="cls-4" d="M241.74,136.51c-48.6,0-88,39.4-88,88s39.4,88,88,88,88-39.4,88-88-39.4-88-88-88ZM289.03,243.11c-.76.66-1.6,1.22-2.37,1.88l-41.85,36.01h-6.07l-42.17-36.31c-8.64-7.44-15.03-17.27-17.82-28.33-2.54-10.04-2.22-21.78,6.06-32.36,18-23,45-17,57-2.42,0,0,14.38-19.76,38-11.58,26,9,26,31,26,31,0,0,4,24-16.78,42.11Z"/>
+    <path class="cls-7" d="M246.56,200.74c-2.77,2.62-7.06,2.64-9.9.1-5.47-4.91-5.47-10.13-15.97-13.35-13-4-27,2.41-27,21,0,7.97,3.46,15.46,11,23,6.63,6.63,37,32,37,32l31-26c18-14,18.51-29.89,16-37-.14-.4-.28-.78-.43-1.16-4.37-11.17-15.61-15.97-26.57-12.84-7,2-12.72,11.97-15.13,14.26Z"/>
+    <rect class="cls-9" x="42" y="170" width="32" height="16"/>
+    <circle class="cls-2" cx="426.5" cy="330.5" r="16.5"/>
+    <path class="cls-6" d="M345.5,136.25c15,18,38,50,32,103s-42,85-42,85c0,0-42,40-93.5,36.97-51.5-3.03-71.5-17.97-92.5-35.97s-45.5-58.5-43.5-107.5,32.43-81.37,32.43-81.37H10v217.86c0,13.2,10.8,24,24,24h416c13.2,0,24-10.8,24-24v-217.37l-128.5-.62ZM90,194c0,4.4-3.6,8-8,8h-48c-4.4,0-8-3.6-8-8v-32c0-4.4,3.6-8,8-8h48c4.4,0,8,3.6,8,8v32ZM426.5,363c-17.95,0-32.5-14.55-32.5-32.5s14.55-32.5,32.5-32.5,32.5,14.55,32.5,32.5-14.55,32.5-32.5,32.5Z"/>
+    <polygon class="cls-1" points="153.74 57.7 181.14 57.7 196 28 199.5 25.5 283.55 25.5 287.5 27.5 302.97 57.7 331.99 57.7 301.88 10 181.88 10 152.32 57.7 153.74 57.7"/>
+    <polygon class="cls-8" points="207 42 276.9 42 285.08 57.7 199.01 57.7 207 42"/>
+    <polygon class="cls-10" points="42 58 90.02 58 90.02 47.31 85 42 47.07 42 42 46.73 42 58"/>
+  </g>
+</svg>
